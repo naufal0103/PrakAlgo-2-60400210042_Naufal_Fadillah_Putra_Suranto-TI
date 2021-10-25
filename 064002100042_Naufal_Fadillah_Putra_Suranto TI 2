@@ -1,0 +1,30 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 25 22:49:24 2021
+
+@author: Naufal Fadillah
+Nama : Naufal Fadillah Putra Suranto
+NIM  : 06400210042 
+""" 
+ 
+print("@@   @ @@@@ @   @ @@@@ @@@@ @")
+print("@ @  @ @  @ @   @ @    @  @ @")
+print("@  @ @ @@@@ @   @ @@@@ @@@@ @")
+print("@   @@ @  @ @@@@@ @    @  @ @@@@")
+
+print("sisi mana yang kamu akan hitung: a")
+b = int(input('masukan nilai b: '))
+c = int(input('masukan nilai c: '))
+print("panjang c tidak valid!")
+int(input('masukan panjang c: '))
+int(input('panjang sisi a adalah '))
+
+print("@@   @ @@@@ @   @ @@@@ @@@@ @")
+print("@ @  @ @  @ @   @ @    @  @ @")
+print("@  @ @ @@@@ @   @ @@@@ @@@@ @")
+print("@   @@ @  @ @@@@@ @    @  @ @@@@")
+
+print("sisi mana yang kamu akan hitung: c")
+b = int(input('masukan nilai b: '))
+c = int(input('masukan nilai a: ')) 
+int(input('panjang sisi c adalah: '))
